@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configClient/configClient.iml" filepath="$PROJECT_DIR$/configClient/configClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configSer/configSer.iml" filepath="$PROJECT_DIR$/configSer/configSer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul/consul.iml" filepath="$PROJECT_DIR$/consul/consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-eureka/docker-eureka.iml" filepath="$PROJECT_DIR$/docker-eureka/docker-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dockerService/dockerService.iml" filepath="$PROJECT_DIR$/dockerService/dockerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignSer/feignSer.iml" filepath="$PROJECT_DIR$/feignSer/feignSer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudstudy.iml" filepath="$PROJECT_DIR$/springcloudstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userService/userService.iml" filepath="$PROJECT_DIR$/userService/userService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/zipkin.iml" filepath="$PROJECT_DIR$/zipkin/zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

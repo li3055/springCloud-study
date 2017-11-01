@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configClient" />
+        <module name="configSer" />
+        <module name="consul" />
+        <module name="docker-eureka" />
+        <module name="dockerEureka" />
+        <module name="dockerService" />
+        <module name="eureka" />
+        <module name="feignSer" />
+        <module name="ribbon" />
+        <module name="userService" />
+        <module name="zipkin" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configClient" target="1.8" />
+      <module name="configSer" target="1.8" />
+      <module name="consul" target="1.8" />
+      <module name="docker-eureka" target="1.8" />
+      <module name="dockerEureka" target="1.8" />
+      <module name="dockerService" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="feignSer" target="1.8" />
+      <module name="ribbon" target="1.8" />
+      <module name="springcloudstudy" target="1.8" />
+      <module name="userService" target="1.8" />
+      <module name="zipkin" target="1.8" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -13,7 +13,7 @@ public class ConsulMiyaApplication {
 
     @RequestMapping("/hi")
     public String home() {
-        return "hi ,i'm miya";
+        return "hi liq,i'm miya";
     }
 
     public static void main(String[] args) {

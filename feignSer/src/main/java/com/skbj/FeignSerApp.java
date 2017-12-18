@@ -1,4 +1,4 @@
-package com.rrjc;
+package com.skbj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

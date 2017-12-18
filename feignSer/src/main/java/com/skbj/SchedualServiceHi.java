@@ -1,4 +1,4 @@
-package com.rrjc;
+package com.skbj;
 
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
